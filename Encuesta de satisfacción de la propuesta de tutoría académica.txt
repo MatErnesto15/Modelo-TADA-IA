@@ -1,0 +1,6 @@
+
+La siguiente liga da acceso a una encuesta de satisfacción de estudiantes de la licenciatura en contaduría pública de la Universidad Autónoma Benito Juárez de Oaxaca, generada desde Google Forms. Dicho formulario es parte de una propuesta de tutoría académica digital asistida por inteligencia artificial. La intención es independizar a los estudiantes del profesor, al mismo tiempo que ganan habilidades digitales específicas adecuadas para enfrentar en su vida laboral futura.
+
+El resultado de la encuesta es satisfactorio: El 91.7% no conocía python, el mismo porcentaje de estudiantes pudo comprender el objetivo del lenguaje de programación. El 50% de los estudiantes menciona que la interacción con la interfaz de Google Colab fue sencilla. El 83.3% de los estudiantes considera que hay ventajas de este tipo de tutoría frente a una clase tradicional. El 91.7% de los estudiantes considera que los chats inteligentes les permite investigar sobre un tema para comprenderlo mejor. El 83.3% de los estudiantes considera que este tipo de tutoría académica les da mayor libertad para gestionar su propio aprendizaje. El mismo porcentaje de los estudiantes piensa que esta propuesta de tutoría didáctica digital les proporciona ventajas laborales futura.
+
+https://docs.google.com/forms/d/e/1FAIpQLSelj34GQYJ5matREfzLKNhUPOrbgRqzh1CG42PyBe67CDgkPQ/viewform?usp=header
